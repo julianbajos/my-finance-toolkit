@@ -23,10 +23,6 @@ pip install -r requirements.txt
 
 and later:
 
-```text
 ```bash
 jupyter lab notebooks/
-
-When you open the README on GitHub, it will render nicely as code boxes.
-
-**So: everything in the big block I gave you goes into `README.md`; none of it goes into Terminal.**
+```
