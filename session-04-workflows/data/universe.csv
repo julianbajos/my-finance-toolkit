@@ -1,0 +1,17 @@
+ticker,company,sector
+AAPL,Apple Inc.,tech
+MSFT,Microsoft,tech
+GOOGL,Alphabet,tech
+META,Meta Platforms,tech
+AMZN,Amazon,tech
+NVDA,NVIDIA,tech
+ORCL,Oracle,tech
+CRM,Salesforce,tech
+LLY,Eli Lilly,pharma
+MRK,Merck & Co.,pharma
+PFE,Pfizer,pharma
+JNJ,Johnson & Johnson,pharma
+CAT,Caterpillar Inc.,industrials
+GE,GE Aerospace,industrials
+ETN,Eaton Corporation,industrials
+HON,Honeywell International,industrials
